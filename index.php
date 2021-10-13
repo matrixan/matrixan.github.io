@@ -2,9 +2,15 @@
 <html>
 <head>
     <title>Matrix</title>
-    </head>
+</head>
 
 <body>
-<h1>this site is under construction</h1>
+<?php
+echo My First Php
+
+?>
+
+
 </body>
+
 </html>
